@@ -20,11 +20,11 @@
     "polaris"
   ],
   "repository": {
-    "url": "https://github.com/waderyan/nodejs-extension-pack"
+    "url": "https://github.com/kalabhairava/rubrik-polaris-extension-pack"
   },
-  "homepage": "https://github.com/waderyan/nodejs-extension-pack",
+  "homepage": "https://github.com/kalabhairava/rubrik-polaris-extension-pack",
   "bugs": {
-    "url": "https://github.com/waderyan/nodejs-extension-pack/issues"
+    "url": "https://github.com/kalabhairava/rubrik-polaris-extension-pack/issues"
   },
   "extensionPack": [
     "eamodio.gitlens",
