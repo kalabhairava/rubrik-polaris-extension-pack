@@ -1,0 +1,37 @@
+{
+  "name": "rubrik-polaris-extension-pack",
+  "displayName": "rubrik-polaris-extension-pack",
+  "description": "An extension pack for Polaris UI development.",
+  "version": "0.0.1",
+  "publisher": "Manjunatha",
+  "engines": {
+    "vscode": "^1.36.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "icon": "rubrik_logo.png",
+  "galleryBanner": {
+    "color": "#333333",
+    "theme": "dark"
+  },
+  "keywords": [
+    "rubrik",
+    "polaris"
+  ],
+  "repository": {
+    "url": "https://github.com/waderyan/nodejs-extension-pack"
+  },
+  "homepage": "https://github.com/waderyan/nodejs-extension-pack",
+  "bugs": {
+    "url": "https://github.com/waderyan/nodejs-extension-pack/issues"
+  },
+  "extensionPack": [
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "kumar-harsh.graphql-for-vscode",
+    "ms-vscode.vscode-typescript-tslint-plugin",
+    "rbbit.typescript-hero",
+    "vscode-icons-team.vscode-icons"
+  ]
+}
